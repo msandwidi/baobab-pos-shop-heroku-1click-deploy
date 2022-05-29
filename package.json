@@ -14,5 +14,6 @@
   "author": "Mahamoudou Sandwidi",
   "license": "Copyright Tiny Baobab LLC",
   "dependencies": {
+    "express": "4.18.1"
   }
 }
