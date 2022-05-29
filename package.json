@@ -1,0 +1,18 @@
+{
+  "name": "baobab-pos-online-shop",
+  "version": "1.0.0",
+  "description": "Baobab POS Online Shop",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Mahamoudou Sandwidi",
+  "license": "Copyright Tiny Baobab LLC",
+  "dependencies": {
+  }
+}
